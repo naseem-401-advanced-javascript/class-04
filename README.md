@@ -14,21 +14,23 @@
 
 #### `.env` requirements (where applicable)
 
-i.e.
 
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- npm run test
 
-#### How to initialize/run your application (where applicable)
-
-- e.g. `npm start`
 
 #### Tests
 
 - How do you run tests?
+use npm run test
+
+
 - Any tests of note?
+no
+
 - Describe any tests that you did not complete, skipped, etc
+no new model added just the main CRUD methods
+
+
 
 #### UML
 
-Link to an image of the UML for your application and response to events

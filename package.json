@@ -1,0 +1,23 @@
+{
+  "name": "class-04",
+  "version": "1.0.0",
+  "description": "@ LAB - Class 02",
+  "main": "file-data-model.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naseem-401-advanced-javascript/class-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naseem-401-advanced-javascript/class-04/issues"
+  },
+  "homepage": "https://github.com/naseem-401-advanced-javascript/class-04#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
+}
