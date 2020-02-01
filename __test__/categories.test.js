@@ -5,7 +5,8 @@ const Categories = require('../categories/categories.js');
 describe('Categories Model', () => {
 
     let categories;
-    beforEach(() => {
+
+    beforeEach(() => {
         categories = new Categories();
     });
 

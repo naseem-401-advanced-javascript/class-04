@@ -1,4 +1,4 @@
-@ LAB - Class 02        
+# LAB - Class 04       
 
 ## Project Data Modeling
            
@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/naseem-401-advanced-javascript/class-04/tree/Data-Modeling)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 
 
@@ -33,4 +33,4 @@ no new model added just the main CRUD methods
 
 
 #### UML
-
+[](assest/lab4.jpeg)

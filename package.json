@@ -4,7 +4,7 @@
   "description": "@ LAB - Class 02",
   "main": "file-data-model.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose --coverage"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/naseem-401-advanced-javascript/class-04/issues"
   },
-  "homepage": "https://github.com/naseem-401-advanced-javascript/class-04#readme"
+  "homepage": "https://github.com/naseem-401-advanced-javascript/class-04#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "lint": "^0.7.0",
+    "uuid": "3.4.0"
+  }
 }
